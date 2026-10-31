@@ -1,0 +1,18 @@
+build/
+bin/
+.vs/
+.vscode/
+
+# Visual Studio / MSVC build artifacts
+x64/
+x86/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.user
+*.exe
+
+# Test outputs
+*.txt
